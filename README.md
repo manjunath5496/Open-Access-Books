@@ -1259,39 +1259,51 @@ Irregular Status in Europe</a></li>
 for Enhancing Nuclear Safety, Security, Safeguards and Non-proliferation – 60 Years of IAEA and EURATOM</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(215).pdf" style="text-decoration:none;">Disability in industrial Britain: A cultural and literary history of impairment in the coal industry, 1880–1948</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(216).pdf" style="text-decoration:none;">Syntactic Dependency Based Heuristics for Biological Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(217).pdf" style="text-decoration:none;">Can One Language Bootstrap the Other: A Case Study on Event Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(216).pdf" style="text-decoration:none;">Radical Solutions
+and Open Science</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(217).pdf" style="text-decoration:none;">Indigenous Pathways, Transitions and Participation in Higher Education</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(218).pdf" style="text-decoration:none;">Graph-based Event Coreference Resolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(219).pdf" style="text-decoration:none;">A Pairwise Event Coreference Model, Feature Impact and Evaluation for Event Coreference Resolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(220).pdf" style="text-decoration:none;">Biomedical Event Extraction from Abstracts and Full Papers using Search-based Structured Prediction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(218).pdf" style="text-decoration:none;">Coming to
+Terms with Superdiversity</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(219).pdf" style="text-decoration:none;">Inclusion, Education
+and Translanguaging</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(220).pdf" style="text-decoration:none;">Contemporary Nordic
+Literature and Spatiality</a></li>
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(221).pdf" style="text-decoration:none;">Robust Biomedical Event Extraction with Dual Decomposition and Minimal Domain Adaptation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(222).pdf" style="text-decoration:none;">Biomedical Event Extraction
-by Multi-class Classification of Pairs of Text Entities</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(221).pdf" style="text-decoration:none;">Housing Market Dynamics in Africa</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(222).pdf" style="text-decoration:none;">Impact of Information Society Research
+in the Global South</a></li> 
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(223).pdf" style="text-decoration:none;">A Hybrid Approach for Biomedical Event Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(223).pdf" style="text-decoration:none;">The Economics
+of Big Science</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(224).pdf" style="text-decoration:none;">Unsupervised Techniques for Extracting and Clustering Complex Events in News</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(224).pdf" style="text-decoration:none;">Beyond Media Borders,
+Volume 2: Intermedial Relations among Multimodal Media</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(225).pdf" style="text-decoration:none;">Evaluation for Partial Event Coreference</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(226).pdf" style="text-decoration:none;">Translating Granularity of Event Slots into Features for Event Coreference Resolution</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(227).pdf" style="text-decoration:none;">From Light to Rich ERE:
-Annotation of Entities, Relations, and Events</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(228).pdf" style="text-decoration:none;">A Comparison of Event Representations in DEFT</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(229).pdf" style="text-decoration:none;">A Two-stage Approach for Extending Event Detection to New Types via Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(225).pdf" style="text-decoration:none;">Vocational
+Teacher Education in Central Asia</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(226).pdf" style="text-decoration:none;">Dissonant Heritages
+and Memories in Contemporary Europe</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(227).pdf" style="text-decoration:none;">The Entrepreneurial
+Society</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(228).pdf" style="text-decoration:none;">Development
+in Turbulent Times</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(229).pdf" style="text-decoration:none;">Re-Inventing Africa's Development</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(230).pdf" style="text-decoration:none;"> Building a Cross-document Event-Event Relation Corpus </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(230).pdf" style="text-decoration:none;"> Trailblazing in Entrepreneurship </a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(231).pdf" style="text-decoration:none;">
-Biomolecular Event Extraction using a Stacked Generalization based Classifier</a></li>
+Sustainable Development Goals and Human Rights</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(232).pdf" style="text-decoration:none;">Biomedical Event Extraction using Abstract Meaning Representation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(233).pdf" style="text-decoration:none;">Automatically Acquiring Conceptual Patterns Without an Annotated Corpus</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(234).pdf" style="text-decoration:none;">Event Coreference for Information Extraction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(235).pdf" style="text-decoration:none;">Automatic Event and Relation Detection with Seeds of Varying Complexity</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(232).pdf" style="text-decoration:none;">Nostalgia and Hope:
+Intersections between Politics of Culture, Welfare, and Migration in Europe</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(233).pdf" style="text-decoration:none;">Higher Education
+Reforms in Romania</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(234).pdf" style="text-decoration:none;">World Class
+Universities</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(235).pdf" style="text-decoration:none;">Community-Oriented Policing and Technological Innovations</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(236).pdf" style="text-decoration:none;">Event Structures in Linguistic Form and Interpretation (Introduction)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ok(236).pdf" style="text-decoration:none;">Conviviality at the Crossroads</a></li>
 </ul>
 
