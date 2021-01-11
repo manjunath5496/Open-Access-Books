@@ -187,7 +187,8 @@ Autonomy</a></li>
 Assessment: The Methodological, Psychological and Policy Contributions of ETS</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/os(80).pdf" style="text-decoration:none;">A Review of Relation Extraction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/os(80).pdf" style="text-decoration:none;">Connecting Mathematics
+and Mathematics Education: Collected Papers on Mathematics Education as a Design Science</a></li> 
  
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/os(81).pdf" style="text-decoration:none;">Deltas in the Anthropocene</a></li>
@@ -305,7 +306,8 @@ The Development of the Energy Internet of Things in Energy Infrastructure</a></l
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/os(124).pdf" style="text-decoration:none;">The South Texas Health Status Review</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/os(125).pdf" style="text-decoration:none;">Exploiting Document Level Information to Improve Event Detection via Recurrent Neural Networks</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/os(125).pdf" style="text-decoration:none;">YOUMARES 9 - The Oceans: Our Research,
+Our Future</a></li>   
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/os(126).pdf" style="text-decoration:none;">
 Programming for Computations - Python: A Gentle Introduction to Numerical Simulations with Python 3.6</a></li> 
