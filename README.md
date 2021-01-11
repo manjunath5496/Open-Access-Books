@@ -576,4 +576,122 @@ Policies and Policy Processes in Africa</a></li>
 Criminal Corpse</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/os(236).pdf" style="text-decoration:none;">Ranaviruses</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(1).pdf" style="text-decoration:none;">Innovations in
+Quantitative Risk Management</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(2).pdf" style="text-decoration:none;">Reflections on
+the Fukushima Daiichi Nuclear Accident</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(3).pdf" style="text-decoration:none;">The European Higher
+Education Area: Between Critical Reflections and Future Policies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(4).pdf" style="text-decoration:none;">Agile Processes
+in Software Engineering and Extreme Programming</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(5).pdf" style="text-decoration:none;">Agricultural Implications of the Fukushima
+Nuclear Accident</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(6).pdf" style="text-decoration:none;">Bats in the Anthropocene: Conservation
+of Bats in a Changing World</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(7).pdf" style="text-decoration:none;">Corporate Data Quality</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(8).pdf" style="text-decoration:none;"> New Horizons for Asian Museums and Museology </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(9).pdf" style="text-decoration:none;">Aquaculture Perspective of Multi-Use Sites in the Open Ocean</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(10).pdf" style="text-decoration:none;">Diversity and Evolution of Butterfly Wing Patterns</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(11).pdf" style="text-decoration:none;">Proceedings of the 13th
+International Congress on Mathematical Education</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(12).pdf" style="text-decoration:none;">The Interconnected Arctic —
+UArctic Congress 2016</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(13).pdf" style="text-decoration:none;">Entity-Oriented Search</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(14).pdf" style="text-decoration:none;">Language Technologies
+for the Challenges of the Digital Age</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(15).pdf" style="text-decoration:none;">Nanoinformatics</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(16).pdf" style="text-decoration:none;">Primary Angioplasty</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(17).pdf" style="text-decoration:none;">Principles of Security
+and Trust</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(18).pdf" style="text-decoration:none;">Sago Palm:
+Multiple Contributions to Food Security and Sustainable Livelihoods</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(19).pdf" style="text-decoration:none;">YOUMARES 8 – Oceans Across Boundaries:
+Learning from each other</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(20).pdf" style="text-decoration:none;">Mary and Early Christian Women</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(21).pdf" style="text-decoration:none;">National Constitutions
+in European and Global Governance: Democracy, Rights, the Rule of Law</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(22).pdf" style="text-decoration:none;">Bioimage Data
+Analysis Workflows</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(23).pdf" style="text-decoration:none;">Programming
+Languages and Systems</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(24).pdf" style="text-decoration:none;">Regeneration of the Built
+Environment from a Circular Economy Perspective</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(25).pdf" style="text-decoration:none;">Towards a Comparative
+Analysis of Social Inequalities between Europe and Latin America</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(26).pdf" style="text-decoration:none;">XcalableMP PGAS
+Programming Language</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(27).pdf" style="text-decoration:none;">The Future Internet</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(28).pdf" style="text-decoration:none;">Android on x86</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(29).pdf" style="text-decoration:none;">Advances in Wheat Genetics:
+From Genome to Field</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(30).pdf" style="text-decoration:none;">Agricultural and Forestry Reconstruction
+After the Great East Japan Earthquake</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(31).pdf" style="text-decoration:none;">Nuclear Back-end and Transmutation Technology for Waste Disposal</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(32).pdf" style="text-decoration:none;">Etiology and Morphogenesis of Congenital Heart Disease</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(33).pdf" style="text-decoration:none;">Food Price
+Volatility and Its Implications for Food Security and Policy</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(34).pdf" style="text-decoration:none;">Integrated
+Groundwater Management</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(35).pdf" style="text-decoration:none;">Sustainable Development
+in the Jordan Valley</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(36).pdf" style="text-decoration:none;">Bioeconomy: Shaping the Transition to a Sustainable, Biobased Economy</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(37).pdf" style="text-decoration:none;">Climate Smart Agriculture:
+Building Resilience to Climate Change</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(38).pdf" style="text-decoration:none;">Earth Observation Open
+Science and Innovation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(39).pdf" style="text-decoration:none;">Handbook of
+Life Course Health Development</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(40).pdf" style="text-decoration:none;">Invited Lectures
+from the 13th International Congress on Mathematical Education</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(41).pdf" style="text-decoration:none;">New Vision 2050: 
+A Platinum Society</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(42).pdf" style="text-decoration:none;">Housing Estates in the Baltic
+Countries</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(43).pdf" style="text-decoration:none;">Managed Software Evolution</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(44).pdf" style="text-decoration:none;">Fundamental Approaches
+to Software Engineering</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(45).pdf" style="text-decoration:none;">Multiple-Aspect Analysis
+of Semantic Trajectories</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(46).pdf" style="text-decoration:none;">The Potato Crop: Its Agricultural, Nutritional and Social Contribution to Humankind</a></li> 
+                             
+
+
+
+
+
+
+
+
+
 </ul>
