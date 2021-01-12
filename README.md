@@ -2547,6 +2547,232 @@ and Knee Joint Replacement</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ol(222).pdf" style="text-decoration:none;">Exploring Greek Manuscripts
 in the Library at Wellcome Collection in London</a></li> 
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(1).pdf" style="text-decoration:none;">Autonomous Driving</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(2).pdf" style="text-decoration:none;">European Higher Education Area: The Impact
+of Past and Future Policies</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(3).pdf" style="text-decoration:none;">Housing Estates in Europe</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(4).pdf" style="text-decoration:none;">Riverine
+Ecosystem Management</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(5).pdf" style="text-decoration:none;">Secondary Analysis of Electronic Health Records</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(6).pdf" style="text-decoration:none;">Inorganic
+Constituents in Soil</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(7).pdf" style="text-decoration:none;">Bisociative
+Knowledge Discovery</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(8).pdf" style="text-decoration:none;"> Biodiversity
+Conservation and Phylogenetic Systematics </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(9).pdf" style="text-decoration:none;">The Handbook
+of Salutogenesis</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(10).pdf" style="text-decoration:none;">China's Gas
+Development Strategies</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(11).pdf" style="text-decoration:none;">Computer and
+Information Sciences</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(12).pdf" style="text-decoration:none;">Agile Processes
+in Software Engineering and Extreme Programming: 19th International Conference, XP 2018 Porto, Portugal, May 21–25, 2018 Proceedings</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(13).pdf" style="text-decoration:none;">The Proceedings
+of the 12th International Congress on Mathematical Education</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(14).pdf" style="text-decoration:none;">Symbiotic Interaction</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(15).pdf" style="text-decoration:none;">Foundations
+of Software Science and Computation Structures</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(16).pdf" style="text-decoration:none;">Alternatives
+to Animal Testing</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(17).pdf" style="text-decoration:none;">Aquaponics
+Food Production Systems</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(18).pdf" style="text-decoration:none;">Bio-based
+Building Skin</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(19).pdf" style="text-decoration:none;">Factories of the
+Future: The Italian Flagship Initiative</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(20).pdf" style="text-decoration:none;">Internet of Things: Information Processing in an Increasingly Connected World</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(21).pdf" style="text-decoration:none;">Surgical Ophthalmic
+Oncology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(22).pdf" style="text-decoration:none;">Cold Micro
+Metal Forming: Research Report of the Collaborative Research Center "Micro Cold Forming" (SFB 747), Bremen, Germany</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(23).pdf" style="text-decoration:none;">Ecosystem-Based
+Management, Ecosystem Services and Aquatic Biodiversity</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(24).pdf" style="text-decoration:none;">Long-Term
+Ecosystem Changes in Riparian Forests</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(25).pdf" style="text-decoration:none;">Mesoscale
+Analysis of Hydraulics</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(26).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(27).pdf" style="text-decoration:none;">Event Extraction by Answering (Almost) Natural Questions</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(28).pdf" style="text-decoration:none;">Cross-media Structured Common Space for Multimedia Event Extraction</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(29).pdf" style="text-decoration:none;">Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(30).pdf" style="text-decoration:none;">Extracting COVID-19 Events from Twitter</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(31).pdf" style="text-decoration:none;">Temporal Random Indexing of Context Vectors Applied to Event Detection</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(32).pdf" style="text-decoration:none;">Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(33).pdf" style="text-decoration:none;">BERTering RAMS: What and How Much does BERT Already Know About Event Arguments? —A Study on the RAMS Dataset</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(34).pdf" style="text-decoration:none;">Improving Event Detection via Open-domain Trigger Knowledge</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(35).pdf" style="text-decoration:none;">A Two-Step Approach for Implicit Event Argument Detection</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(36).pdf" style="text-decoration:none;">Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(37).pdf" style="text-decoration:none;">Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(38).pdf" style="text-decoration:none;">Exploring Interpretability in Event Extraction: Multitask Learning of a Neural Event Classifier and an Explanation Decoder</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(39).pdf" style="text-decoration:none;">Global Locality in Biomedical Relation and Event Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(40).pdf" style="text-decoration:none;">Connecting the Dots: Event Graph Schema Induction with Path Language Modeling</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(41).pdf" style="text-decoration:none;">Incremental Event Detection via Knowledge Consolidation Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(42).pdf" style="text-decoration:none;">Semi-supervised New Event Type Induction and Event Detection</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(43).pdf" style="text-decoration:none;">Event Extraction as Machine Reading Comprehension</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(44).pdf" style="text-decoration:none;">A Method for Building a Commonsense Inference Dataset based on Basic Events</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(45).pdf" style="text-decoration:none;">Weakly Supervised Subevent Knowledge Acquisition</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(46).pdf" style="text-decoration:none;">Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(47).pdf" style="text-decoration:none;">Severing the Edge Between Before and After: Neural Architectures for Temporal Ordering of Events</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(48).pdf" style="text-decoration:none;">Affective Event Classification with Discourse-enhanced Self-training</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(49).pdf" style="text-decoration:none;">Event Extraction as Multi-turn Question Answering</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(50).pdf" style="text-decoration:none;">Biomedical Event Extraction with Hierarchical Knowledge Graphs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(51).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(52).pdf" style="text-decoration:none;">How Does Context Matter? On the Robustness of Event Detection with Context-Selective Mask Generalization</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(53).pdf" style="text-decoration:none;">Resource-Enhanced Neural Model for Event Argument Extraction</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(54).pdf" style="text-decoration:none;">Graph Transformer Networks with Syntactic and Semantic Structures for Event Argument Extraction </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(55).pdf" style="text-decoration:none;">Learning to Classify Events from Human Needs Category Descriptions</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(56).pdf" style="text-decoration:none;">Towards Few-Shot Event Mention Retrieval: An Evaluation Framework and A Siamese Network Approach </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(57).pdf" style="text-decoration:none;">Cross-lingual Structure Transfer for Zero-resource Event Extraction</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(58).pdf" style="text-decoration:none;">Cross-Domain Evaluation of Edge Detection for Biomedical Event Extraction</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(59).pdf" style="text-decoration:none;">Event Extraction from Unstructured Amharic Text</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(60).pdf" style="text-decoration:none;">A Platform for Event Extraction in Hindi </a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(61).pdf" style="text-decoration:none;"> Extensively Matching for Few-shot Learning Event Detection</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(62).pdf" style="text-decoration:none;">Coreference based event-argument relation extraction on biomedical text</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(63).pdf" style="text-decoration:none;">Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(64).pdf" style="text-decoration:none;">Modeling Textual Cohesion for Event Extraction</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(65).pdf" style="text-decoration:none;">Image Enhanced Event Detection in News Articles </a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(66).pdf" style="text-decoration:none;">A Probabilistic Soft Logic Based Approach to Exploiting Latent and Global Information in Event Classification</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(67).pdf" style="text-decoration:none;">Language Specific Issue and Feature Exploration in Chinese Event Extraction</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(68).pdf" style="text-decoration:none;">Jointly Extracting Event Triggers and Arguments by Dependency-Bridge RNN and Tensor-Based Argument Interaction</a></li> 
+ 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(69).pdf" style="text-decoration:none;">Graph Convolutional Networks with
+Argument-Aware Pooling for Event Detection</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(70).pdf" style="text-decoration:none;">Including New Patterns to Improve Event Extraction Systems</a></li> 
+  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(71).pdf" style="text-decoration:none;">A Novel Feature Selection Strategy for Enhanced Biomedical Event Extraction Using the Turku System</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(72).pdf" style="text-decoration:none;">Predicting Unknown Time Arguments
+based on Cross-Event Propagation</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(73).pdf" style="text-decoration:none;">Unsupervised Event Coreference Resolution with Rich Linguistic Features</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(74).pdf" style="text-decoration:none;">Event Specific Multimodal Pattern Mining for Knowledge Base Construction</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(75).pdf" style="text-decoration:none;">Joint Event Extraction Based on Hierarchical Event Schemas From FrameNet</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(76).pdf" style="text-decoration:none;">A Semantic Approach to IE Pattern Induction</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(77).pdf" style="text-decoration:none;">REES: A Large-Scale Relation and Event Extraction System</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(78).pdf" style="text-decoration:none;">A Maximum Entropy Approach to
+Information Extraction from Semi-Structured and Free Text</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(79).pdf" style="text-decoration:none;">Automatically constructing a dictionary for information extraction tasks</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(80).pdf" style="text-decoration:none;">A Review of Relation Extraction</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(81).pdf" style="text-decoration:none;">A Survey of Techniques for Event Detection in Twitter</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(82).pdf" style="text-decoration:none;">Complex event extraction at PubMed scale</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(83).pdf" style="text-decoration:none;">Boosting automatic event extraction from the literature using domain adaptation and coreference resolution</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(84).pdf" style="text-decoration:none;">Automatic Acquisition of Domain Knowledge for Information Extraction</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(85).pdf" style="text-decoration:none;">Filtered Ranking for Bootstrapping in Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(86).pdf" style="text-decoration:none;">Joint Modeling for Chinese Event Extraction with Rich Linguistic Features</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(87).pdf" style="text-decoration:none;">Joint Modeling of Trigger Identification and Event Type Determination in Chinese Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(88).pdf" style="text-decoration:none;">Leveraging Multilingual Training for Limited Resource Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(89).pdf" style="text-decoration:none;">Incremental Global Event Extraction</a></li>
+  
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(90).pdf" style="text-decoration:none;"> Joint Inference for Event Coreference Resolution</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(91).pdf" style="text-decoration:none;">Event Detection with Burst Information Networks</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(92).pdf" style="text-decoration:none;">Open-Domain Event Detection using Distant Supervision</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(93).pdf" style="text-decoration:none;">Adaptive Information Extraction from Text by Rule Induction and Generalisation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(94).pdf" style="text-decoration:none;">Fast and Robust Joint Models for Biomedical Event Extraction</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(95).pdf" style="text-decoration:none;">Joint Entity and Event Coreference Resolution across Documents</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(96).pdf" style="text-decoration:none;">Employing Compositional Semantics and Discourse Consistency in Chinese Event Extraction</a></li> 
+  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(97).pdf" style="text-decoration:none;">Relieving the Computational Bottleneck: Joint Inference for Event Extraction with High-Dimensional Features</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(98).pdf" style="text-decoration:none;">Cross-document Event Coreference Resolution based on Cross-media Features</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(99).pdf" style="text-decoration:none;">Joint Event Trigger Identification and Event Coreference Resolution with Structured Perceptron</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(100).pdf" style="text-decoration:none;">Event Detection and Co-reference with Minimal Supervision</a></li>  
+  
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(101).pdf" style="text-decoration:none;">Modeling Skip-Grams for Event Detection with Convolutional Neural Networks</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(102).pdf" style="text-decoration:none;">Identifying civilians killed by police with distantly supervised entity-event extraction</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(103).pdf" style="text-decoration:none;">Exploiting Contextual Information via Dynamic Memory Network for Event Detection</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(104).pdf" style="text-decoration:none;">Collective Event Detection via a Hierarchical and Bias Tagging Networks with Gated Multi-level Attention Mechanisms</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(105).pdf" style="text-decoration:none;">Similar but not the Same: Word Sense Disambiguation Improves Event Detection via Neural Representation Matching</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(106).pdf" style="text-decoration:none;">Open Event Extraction from Online Text using a Generative Adversarial Network</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(107).pdf" style="text-decoration:none;">Cross-lingual Structure Transfer for Relation and Event Extraction</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(108).pdf" style="text-decoration:none;">Event Detection with Trigger-Aware Lattice Neural Network</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(109).pdf" style="text-decoration:none;">Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(110).pdf" style="text-decoration:none;">Neural Cross-Lingual Event Detection with Minimal Parallel Resources </a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(111).pdf" style="text-decoration:none;">Event Detection with Multi-Order Graph Convolution and Aggregated Attention</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(112).pdf" style="text-decoration:none;">HMEAE: Hierarchical Modular Event Argument Extraction</a></li> 
+  
 </ul>
 
