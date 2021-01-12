@@ -639,7 +639,7 @@ Environment from a Circular Economy Perspective</a></li>
 Analysis of Social Inequalities between Europe and Latin America</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(26).pdf" style="text-decoration:none;">XcalableMP PGAS
 Programming Language</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(27).pdf" style="text-decoration:none;">The Future Internet</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(27).pdf" style="text-decoration:none;">The Future Internet: Future Internet Assembly 2011: Achievements and Technological Promises</a></li>
    
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/pl(28).pdf" style="text-decoration:none;">Android on x86</a></li>
@@ -2109,7 +2109,7 @@ Trafficking</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ol(52).pdf" style="text-decoration:none;">Collective Actions
 in Europe</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ol(53).pdf" style="text-decoration:none;">The Future Internet</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ol(53).pdf" style="text-decoration:none;">The Future Internet: Future Internet Assembly 2012: From Promises to Reality</a></li>
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ol(54).pdf" style="text-decoration:none;">Protecting the
 Rights of People with Autism in the Fields of Education and Employment </a></li>
