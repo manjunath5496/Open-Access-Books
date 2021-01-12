@@ -2109,7 +2109,7 @@ Trafficking</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ol(52).pdf" style="text-decoration:none;">Collective Actions
 in Europe</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ol(53).pdf" style="text-decoration:none;">Resource-Enhanced Neural Model for Event Argument Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ol(53).pdf" style="text-decoration:none;">The Future Internet</a></li>
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ol(54).pdf" style="text-decoration:none;">Protecting the
 Rights of People with Autism in the Fields of Education and Employment </a></li>
