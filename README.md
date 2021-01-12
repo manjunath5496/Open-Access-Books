@@ -2426,8 +2426,7 @@ Whole Numbers in the Primary Grades</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ol(174).pdf" style="text-decoration:none;">Agricultural
 Implications of the Fukushima Nuclear Accident (III)</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ol(175).pdf" style="text-decoration:none;">Demographic
-Research Monographs</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ol(175).pdf" style="text-decoration:none;">Old and New Perspectives on Mortality Forecasting</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ol(176).pdf" style="text-decoration:none;">Fundamental University Physics</a></li>  
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/ol(177).pdf" style="text-decoration:none;">Volcanic Unrest
