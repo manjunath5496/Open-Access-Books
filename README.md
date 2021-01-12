@@ -1567,141 +1567,200 @@ and the Humanities</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(100).pdf" style="text-decoration:none;">Pre-Field Screening
 Protocols for Heat-Tolerant Mutants in Rice</a></li>  
   
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(101).pdf" style="text-decoration:none;">Modeling Skip-Grams for Event Detection with Convolutional Neural Networks</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(101).pdf" style="text-decoration:none;">Stochastic
+Discounted Cash Flow</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(102).pdf" style="text-decoration:none;">Identifying civilians killed by police with distantly supervised entity-event extraction</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(102).pdf" style="text-decoration:none;">Higher Education in the Era of the Fourth Industrial Revolution</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(103).pdf" style="text-decoration:none;">Exploiting Contextual Information via Dynamic Memory Network for Event Detection</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(103).pdf" style="text-decoration:none;">Global
+Citizenship Education</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(104).pdf" style="text-decoration:none;">Collective Event Detection via a Hierarchical and Bias Tagging Networks with Gated Multi-level Attention Mechanisms</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(104).pdf" style="text-decoration:none;">Manifesto of the New Economy</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(105).pdf" style="text-decoration:none;">Similar but not the Same: Word Sense Disambiguation Improves Event Detection via Neural Representation Matching</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(105).pdf" style="text-decoration:none;">Energy Poverty: (Dis)Assembling Europe's Infrastructural Divide</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(106).pdf" style="text-decoration:none;">Open Event Extraction from Online Text using a Generative Adversarial Network</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(106).pdf" style="text-decoration:none;">Contemporary
+Issues in Human Rights Law</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(107).pdf" style="text-decoration:none;">Cross-lingual Structure Transfer for Relation and Event Extraction</a></li> 
-  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(108).pdf" style="text-decoration:none;">Event Detection with Trigger-Aware Lattice Neural Network</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(109).pdf" style="text-decoration:none;">Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(110).pdf" style="text-decoration:none;">Neural Cross-Lingual Event Detection with Minimal Parallel Resources </a></li>  
-   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(111).pdf" style="text-decoration:none;">Event Detection with Multi-Order Graph Convolution and Aggregated Attention</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(107).pdf" style="text-decoration:none;">Psychiatry and
+Decolonisation in Uganda</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(112).pdf" style="text-decoration:none;">HMEAE: Hierarchical Modular Event Argument Extraction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(108).pdf" style="text-decoration:none;">Teaching
+Tolerance in a Globalized World</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(113).pdf" style="text-decoration:none;">Entity, Relation, and Event Extraction with Contextualized Span Representations</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(109).pdf" style="text-decoration:none;">Migrating and Settling
+in a Mobile World</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(114).pdf" style="text-decoration:none;">Financial Event Extraction Using Wikipedia-Based Weak Supervision</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(115).pdf" style="text-decoration:none;">An Overview of Event Extraction from Text</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(110).pdf" style="text-decoration:none;">Management
+of Research Infrastructures: A South African Funding Perspective </a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(116).pdf" style="text-decoration:none;">Joint Entity and Event Extraction with Generative Adversarial Imitation Learning</a></li>   
-   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(117).pdf" style="text-decoration:none;">Bootstrapped Training of Event Extraction Classifiers</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(118).pdf" style="text-decoration:none;">Skip N-grams and Ranking Functions for Predicting Script Events</a></li>  
-   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(119).pdf" style="text-decoration:none;">Event detection based on open information extraction and ontology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(111).pdf" style="text-decoration:none;">The Cloud-to-Thing
+Continuum</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(120).pdf" style="text-decoration:none;">Event Coreference Resolution using Mincut based Graph Clustering</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(121).pdf" style="text-decoration:none;">On Semantics and Deep Learning for Event Detection in Crisis Situations</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(112).pdf" style="text-decoration:none;">West African Youth
+Challenges and Opportunity Pathways</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(113).pdf" style="text-decoration:none;">Nils Petter
+Gleditsch: Pioneer in the Analysis of War and Peace</a></li>  
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(122).pdf" style="text-decoration:none;">Chinese Event Extraction Based on Attention and Semantic Features: A Bidirectional Circular Neural Network</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(114).pdf" style="text-decoration:none;">Science and
+Technology Governance and Ethics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(115).pdf" style="text-decoration:none;">Values and Valuing
+in Mathematics Education</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(116).pdf" style="text-decoration:none;">IEA International Computer
+and Information Literacy Study 2018</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(117).pdf" style="text-decoration:none;">Migration,
+Agriculture and Rural Development</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(118).pdf" style="text-decoration:none;">Wellbeing in Politics and Policy</a></li>  
+   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(119).pdf" style="text-decoration:none;">The Great
+Disruptor</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(120).pdf" style="text-decoration:none;">Qualitative Freedom -
+Autonomy in Cosmopolitan Responsibility</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(121).pdf" style="text-decoration:none;">Migration in the Southern
+Balkans</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(122).pdf" style="text-decoration:none;">The Values of Independent Hip-Hop in the Post-Golden Era</a></li>  
      
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(123).pdf" style="text-decoration:none;">A Unified Event Coreference Resolution by Integrating Multiple Resolvers</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(123).pdf" style="text-decoration:none;">Greening the Financial Sector</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(124).pdf" style="text-decoration:none;">Using Prediction from Sentential Scope to Build a Pseudo Co-Testing Learner for Event Extraction</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(124).pdf" style="text-decoration:none;">Feeling Gender:
+A Generational and Psychosocial Approach</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(125).pdf" style="text-decoration:none;">Exploiting Document Level Information to Improve Event Detection via Recurrent Neural Networks</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(125).pdf" style="text-decoration:none;">The Ethical Spirit of EU Law</a></li>   
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(126).pdf" style="text-decoration:none;">
-Semi-Automatic Financial Events Discovery Based on Lexico-Semantic Patterns</a></li> 
+Governance and Limited Statehood</a></li> 
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(127).pdf" style="text-decoration:none;">Unsupervised Event Coreference Resolution</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(127).pdf" style="text-decoration:none;">Data and Text
+Processing for Health and Life Sciences</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(128).pdf" style="text-decoration:none;">Temporal Ontology and Temporal Reference</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(128).pdf" style="text-decoration:none;">Social Innovations in the
+Urban Context</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(129).pdf" style="text-decoration:none;">Four thousand ships passed through the lock: Object-induced measure functions on events</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(129).pdf" style="text-decoration:none;">Sepsis Management
+in Resource-limited Settings</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(130).pdf" style="text-decoration:none;">Event Coreference Resolution with Multi-Pass Sieves </a></li>    
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(130).pdf" style="text-decoration:none;">Risk Communication
+for the Future: Towards Smart Risk Governance and Safety Management </a></li>    
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(131).pdf" style="text-decoration:none;">Learning Dictionaries for Information Extraction by Multi-Level Bootstrapping</a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(131).pdf" style="text-decoration:none;">Socioeconomic
+and Environmental Implications of Agricultural Residue Burning</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(132).pdf" style="text-decoration:none;">Event Detection via Gated Multilingual Attention Mechanism</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(132).pdf" style="text-decoration:none;">Technical
+Universities</a></li>   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(133).pdf" style="text-decoration:none;">A Survey of Textual Event Extraction from Social Networks</a></li>     
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(133).pdf" style="text-decoration:none;">Wellbeing and Devolution:
+Reframing the Role of Government in Scotland, Wales and Northern Ireland</a></li>     
    
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(134).pdf" style="text-decoration:none;">Events, Processes, and States</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(134).pdf" style="text-decoration:none;">Understanding
+China's School Leadership</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(135).pdf" style="text-decoration:none;">Chinese Event Coreference Resolution: An Unsupervised Probabilistic Model Rivaling Supervised Resolvers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(135).pdf" style="text-decoration:none;">P.Y. Galperin's Development
+of Human Mental Activity</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(136).pdf" style="text-decoration:none;">Joint Extraction of Events and Entities within a Document Context</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(137).pdf" style="text-decoration:none;">Joint Event Extraction via Recurrent Neural Networks</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(138).pdf" style="text-decoration:none;">Cross-media Event Extraction and Recommendation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(139).pdf" style="text-decoration:none;">Semi-Supervised Event Extraction with Paraphrase Clusters</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(140).pdf" style="text-decoration:none;">Adversarial Training forWeakly Supervised Event Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(136).pdf" style="text-decoration:none;">Integrating
+Immigrants in Europe</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(137).pdf" style="text-decoration:none;">Early Public Libraries
+and Colonial Citizenship in the British Southern Hemisphere</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(138).pdf" style="text-decoration:none;">Transnational
+Solidarity in Times of Crises</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(139).pdf" style="text-decoration:none;">Words, Objects
+and Events in Economics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(140).pdf" style="text-decoration:none;">Contemporary Turkey at a Glance</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(141).pdf" style="text-decoration:none;"> Biomedical Event Extraction Based on Knowledge-driven Tree-LSTM</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(142).pdf" style="text-decoration:none;">Multilingual Entity, Relation, Event and Human Value Extraction</a></li>                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(143).pdf" style="text-decoration:none;">Learning to Select Important Context Words for Event Detection</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(144).pdf" style="text-decoration:none;">Nonparametric Bayesian Models for Unsupervised Event Coreference Resolution</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(145).pdf" style="text-decoration:none;">5W1H Information Extraction with CNN-Bidirectional LSTM</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(146).pdf" style="text-decoration:none;">An Improved Extraction Pattern Representation Model for Automatic IE Pattern Acquisition</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(141).pdf" style="text-decoration:none;"> Finite Diff erence
+Computing with Exponential Decay Models</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(142).pdf" style="text-decoration:none;">Entrepreneurial Cognition</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(143).pdf" style="text-decoration:none;">Building a
+Cashless Society</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(144).pdf" style="text-decoration:none;">Blockchain and Crypto
+Currency</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(145).pdf" style="text-decoration:none;">The Great
+Mindshift</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(146).pdf" style="text-decoration:none;">Fulfilling
+the Promise of Technology Transfer</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(147).pdf" style="text-decoration:none;">Refining Event Extraction through Cross-document Inference</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(147).pdf" style="text-decoration:none;">The Governing-
+Evaluation- Knowledge Nexus</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(148).pdf" style="text-decoration:none;">Using Document Level Cross-Event Inference to Improve Event Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(148).pdf" style="text-decoration:none;">Dignity in the
+21st Century: Middle East and West</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(149).pdf" style="text-decoration:none;">Event Discovery in Social Media Feeds</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(149).pdf" style="text-decoration:none;">Meaning-Making
+for Living: The Emergence of the Presentational Self in Children's Everyday Dialogues</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(150).pdf" style="text-decoration:none;">Using Cross-Entity Inference to Improve Event Extraction</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(150).pdf" style="text-decoration:none;">Solidarity in Europe</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(151).pdf" style="text-decoration:none;">Event Extraction as Dependency Parsing </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(151).pdf" style="text-decoration:none;">Early Childhood
+Policies and Systems in Eight Countries </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(152).pdf" style="text-decoration:none;">Can Document Selection Help Semi-supervised Learning? A Case Study On Event Extraction </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(153).pdf" style="text-decoration:none;">Automatic Event Extraction with Structured Preference Modeling</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(154).pdf" style="text-decoration:none;">Joint Event Extraction via Structured Prediction with Global Features</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(152).pdf" style="text-decoration:none;">Safety Cultures,
+Safety Models </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(153).pdf" style="text-decoration:none;">Eating, Drinking:
+Surviving</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(154).pdf" style="text-decoration:none;">The Art
+of Sustainable Performance</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(155).pdf" style="text-decoration:none;">Argument Inference from Relevant Event Mentions in Chinese Argument Extraction</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(155).pdf" style="text-decoration:none;">The Codes of the Street in Risky Neighborhoods</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(156).pdf" style="text-decoration:none;">A Structured Distributional Semantic Model for Event Co-reference</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(157).pdf" style="text-decoration:none;">Modelling Events through Memory-based, Open-IE Patterns for Abstractive Summarization</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(158).pdf" style="text-decoration:none;">Toward Future Scenario Generation: Extracting Event Causality Exploiting Semantic Relation, Context, and Association Features</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(156).pdf" style="text-decoration:none;">The Japanese Banking Crisis</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(157).pdf" style="text-decoration:none;">Stem Cells in
+Neuroendocrinology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(158).pdf" style="text-decoration:none;">Energy Demand
+Challenges in Europe</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(159).pdf" style="text-decoration:none;">Cross-narrative temporal ordering of medical events </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(159).pdf" style="text-decoration:none;">Transforming Education
+Outcomes in Africa</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(160).pdf" style="text-decoration:none;">An Annotation Framework for Dense Event Ordering</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(160).pdf" style="text-decoration:none;">Advances
+in Proof-Theoretic Semantics</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(161).pdf" style="text-decoration:none;">A Simple Bayesian Modelling Approach to Event Extraction from Twitter</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(161).pdf" style="text-decoration:none;">Education and
+Skills for Inclusive Growth, Green Jobs and the Greening of Economies in Asia</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(162).pdf" style="text-decoration:none;">Bilingual Event Extraction: a Case Study on Trigger Type Determination</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(163).pdf" style="text-decoration:none;">Real-Time Detection, Tracking, and Monitoring of Automatically Discovered Events in Social Media</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(162).pdf" style="text-decoration:none;">The Ethics
+of Medical Data Donation</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(163).pdf" style="text-decoration:none;">Human Rights in
+Child Protection</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(164).pdf" style="text-decoration:none;">Event Extraction via Dynamic Multi-Pooling Convolutional Neural Networks</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(164).pdf" style="text-decoration:none;">Care in Healthcare</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(165).pdf" style="text-decoration:none;">Generative Event Schema Induction with Entity Disambiguation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(165).pdf" style="text-decoration:none;">The Cellular
+Automaton Interpretation of Quantum Mechanics</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(166).pdf" style="text-decoration:none;">Bring you to the past: Automatic Generation of Topically Relevant Event Chronicles</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(166).pdf" style="text-decoration:none;">The Future
+of Transport Between Digitalization and Decarbonization</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(167).pdf" style="text-decoration:none;">Event Detection and Domain Adaptation with Convolutional Neural Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(167).pdf" style="text-decoration:none;">Economic Evaluation of
+Sustainable Development</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(168).pdf" style="text-decoration:none;">Seed-Based Event Trigger Labeling:
-How far can event descriptions get us?</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(169).pdf" style="text-decoration:none;">Disease Event Detection based on Deep Modality Analysis</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(170).pdf" style="text-decoration:none;">A Domain-independent Rule-based Framework for Event Extraction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(171).pdf" style="text-decoration:none;">Storybase: Towards Building a Knowledge Base for News Events</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(172).pdf" style="text-decoration:none;">Liberal Event Extraction and Event Schema Induction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(173).pdf" style="text-decoration:none;">Jointly Event Extraction and Visualization on Twitter via Probabilistic Modelling</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(168).pdf" style="text-decoration:none;">Informatics
+in the Future</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(169).pdf" style="text-decoration:none;">Linked
+Democracy: Foundations, Tools, and Applications</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(170).pdf" style="text-decoration:none;">Investor-State Dispute
+Settlement and National Courts</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(171).pdf" style="text-decoration:none;">Asylum Matters: 
+On the Front Line of Administrative Decision-Making</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(172).pdf" style="text-decoration:none;">Educational
+Change Amongst English Language College Teachers in China</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(173).pdf" style="text-decoration:none;">Differential Undercounts
+in the U.S. Census</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(174).pdf" style="text-decoration:none;">RBPB: Regularization-Based Pattern Balancing Method for Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(174).pdf" style="text-decoration:none;">Methodological
+Investigations in Agent-Based Modelling</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(175).pdf" style="text-decoration:none;">Leveraging FrameNet to Improve Automatic Event Detection</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(176).pdf" style="text-decoration:none;">Temporal Anchoring of Events for the TimeBank Corpus</a></li>  
    
