@@ -1962,7 +1962,20 @@ Critical Menstruation Studies</a></li>
 Lifespans</a></li> 
  
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(3).pdf" style="text-decoration:none;">Natural Computing
+and Beyond</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(4).pdf" style="text-decoration:none;">Sustainable Land
+Use and Rural Development in Southeast Asia: Innovations and Policies for Mountainous Areas</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(5).pdf" style="text-decoration:none;">Computer Vision Metrics: Survey, Taxonomy, and Analysis</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(6).pdf" style="text-decoration:none;">Intel Galileo and Intel Galileo Gen 2</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(7).pdf" style="text-decoration:none;">Innovative
+Medicine</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(8).pdf" style="text-decoration:none;"> Particle
+Accelerator Physics </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(9).pdf" style="text-decoration:none;">Proceedings of the
+International Conference on Social Modeling and Simulation, plus Econophysics Colloquium 2014</a></li>
+  
 
 
 
