@@ -1918,5 +1918,54 @@ Families and Legal Recognition in Europe</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/op(236).pdf" style="text-decoration:none;">Fragility Fracture Nursing:
 Holistic Care and Management of the Orthogeriatric Patient</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(21).pdf" style="text-decoration:none;">Foundations
+of Software Science and Computation Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(22).pdf" style="text-decoration:none;">The EBMT Handbook</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(23).pdf" style="text-decoration:none;">The Places Where
+Community Is Practiced</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(24).pdf" style="text-decoration:none;">Tools and Algorithms
+for the Construction and Analysis of Systems</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(25).pdf" style="text-decoration:none;">Digital Transformation
+of the Design, Construction and Management Processes of the Built Environment</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(26).pdf" style="text-decoration:none;">Introduction
+to Permanent Plug and Abandonment of Wells</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(27).pdf" style="text-decoration:none;">Ionospheric
+Multi-Spacecraft Analysis Tools</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(28).pdf" style="text-decoration:none;">Leveraging
+Data Science for Global Health</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(29).pdf" style="text-decoration:none;">Make Life
+Visible </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(30).pdf" style="text-decoration:none;">Molecular Mechanism
+of Congenital Heart Disease and Pulmonary Hypertension</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(31).pdf" style="text-decoration:none;">Open Skies</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(32).pdf" style="text-decoration:none;">Real-time
+Linked Dataspaces</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(33).pdf" style="text-decoration:none;">Reversible Computation:
+Extending Horizons of Computing</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(34).pdf" style="text-decoration:none;">The Palgrave Handbook of
+Critical Menstruation Studies</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(35).pdf" style="text-decoration:none;">Data Parallel C++</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(36).pdf" style="text-decoration:none;">Exceptional
+Lifespans</a></li> 
+ 
+
+
+
+
+
+
 </ul>
 
