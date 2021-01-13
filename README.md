@@ -1,4 +1,4 @@
-<h2> Springer Open Access Books (<a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0</a>) </h2>
+<h2> Springer Open Access Books (<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution 4.0</a>) </h2>
 
 
 
@@ -2852,7 +2852,7 @@ Europe's Drowned Landscapes</a></li>
   
 </ul>
 </br>
-<h2> ScienceDirect Books (<a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0</a>) </h2>
+<h2> ScienceDirect Books (<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution 4.0</a>) </h2>
 
 <ul>
 
