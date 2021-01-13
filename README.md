@@ -2851,4 +2851,19 @@ Numerical Simulations of Liquefaction and Lateral Spreading</a></li>
 Europe's Drowned Landscapes</a></li> 
   
 </ul>
+</br>
+<h2> ScienceDirect Books (<a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0</a>) </h2>
+
+<ul>
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ev(1).pdf" style="text-decoration:none;">From Globular Proteins to Amyloids</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ev(2).pdf" style="text-decoration:none;">Approaches to the Purification, Analysis and Characterization of Antibody-Based Therapeutics </a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ev(3).pdf" style="text-decoration:none;">Science for Policy Handbook</a></li> 
+  
+   
+
+</ul>
+
 
