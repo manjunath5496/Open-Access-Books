@@ -2695,7 +2695,8 @@ Designs, Technologies and Performance</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(59).pdf" style="text-decoration:none;">Semantic Systems: The Power of AI
 and Knowledge Graphs</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(60).pdf" style="text-decoration:none;">A Platform for Event Extraction in Hindi </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(60).rar" style="text-decoration:none;">Visualizing
+Mortality Dynamics in the Lexis Diagram </a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(61).pdf" style="text-decoration:none;"> Nanoscale Photonic Imaging</a></li>
  
@@ -2751,7 +2752,8 @@ Discrete Differential Geometry</a></li>
  
  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(78).pdf" style="text-decoration:none;">Biodiversity
 of Angola</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(79).pdf" style="text-decoration:none;">Automatically constructing a dictionary for information extraction tasks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(79).pdf" style="text-decoration:none;">Foundations
+of Software Science and Computation Structures: 23rd International Conference, FOSSACS 2020 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2020 Dublin, Ireland, April 25–30, 2020 Proceedings</a></li>
 
 
  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(80).pdf" style="text-decoration:none;">North Sea Region
