@@ -1920,7 +1920,7 @@ Families and Legal Recognition in Europe</a></li>
 Holistic Care and Management of the Orthogeriatric Patient</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(21).pdf" style="text-decoration:none;">Foundations
-of Software Science and Computation Structures</a></li>
+of Software Science and Computation Structures: 22nd International Conference, FOSSACS 2019, Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2019 Prague, Czech Republic, April 6–11, 2019, Proceedings </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(22).pdf" style="text-decoration:none;">The EBMT Handbook</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Books/blob/master/kl(23).pdf" style="text-decoration:none;">The Places Where
 Community Is Practiced</a></li> 
@@ -2579,7 +2579,8 @@ of the 12th International Congress on Mathematical Education</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(14).pdf" style="text-decoration:none;">Symbiotic Interaction</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(15).pdf" style="text-decoration:none;">Foundations
-of Software Science and Computation Structures</a></li>
+of Software Science and Computation Structures: 21st International Conference, FOSSACS 2018 Held as Part of the European Joint Conferences
+on Theory and Practice of Software, ETAPS 2018 Thessaloniki, Greece, April 14–20, 2018, Proceedings</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/mn(16).pdf" style="text-decoration:none;">Alternatives
 to Animal Testing</a></li>
