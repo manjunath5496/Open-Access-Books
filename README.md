@@ -2866,4 +2866,96 @@ Europe's Drowned Landscapes</a></li>
 
 </ul>
 
+</br>
+
+<h2> Taylor & Francis Books (<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution 4.0</a>) </h2>
+
+
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(1).pdf" style="text-decoration:none;">Handbook of
+Optical and Laser Scanning</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(2).pdf" style="text-decoration:none;">Window Functions and
+Their Rpplications in Signal Processing</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(3).pdf" style="text-decoration:none;">Epileptic Seizures and the EEG:
+Measurement, Models, Detection and Prediction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(4).pdf" style="text-decoration:none;">Public–Private Partnerships in
+International Construction</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(5).pdf" style="text-decoration:none;">Managing Emotion in Design Innovation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(6).pdf" style="text-decoration:none;">Quantitative
+Techniques in Participatory Forest Management</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(7).pdf" style="text-decoration:none;">Essential Histories: The Second World War (3)</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(8).pdf" style="text-decoration:none;"> Precision Agriculture Technology for Crop Farming </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(9).pdf" style="text-decoration:none;">Charged Particle
+Optics Theory</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(10).pdf" style="text-decoration:none;">Biologically inspired robotics</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(11).pdf" style="text-decoration:none;">Green Entrepreneur Handbook: The Guide to Building and Growing a Green and Clean Business</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(12).pdf" style="text-decoration:none;">Biodiversity
+Databases: Techniques, Politics, and Applications</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(13).pdf" style="text-decoration:none;">Water for
+Energy and Fuel Production</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(14).pdf" style="text-decoration:none;">Electrochemical Supercapacitors for Energy Storage and Delivery: Fundamentals and Applications</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(15).pdf" style="text-decoration:none;">Permeable Reactive Barrier: Sustainable Groundwater Remediation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(16).pdf" style="text-decoration:none;">Rethinking IT in Construction
+and Engineering</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(17).pdf" style="text-decoration:none;">Material Cultures of Childhood in Second
+World War Britain</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(18).pdf" style="text-decoration:none;">Unauthorized Access: The Crisis in Online Privacy and Security</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(19).pdf" style="text-decoration:none;">The Laboratory
+GUINEA PIG</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(20).pdf" style="text-decoration:none;">Information Security
+Governance Simplified</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(21).pdf" style="text-decoration:none;">Network-on-Chip: The Next Generation
+of System-on-Chip Integration</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(22).pdf" style="text-decoration:none;">Environmental Management in
+Construction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(23).pdf" style="text-decoration:none;">Trace Elements in
+Abiotic and Biotic Environments</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(24).pdf" style="text-decoration:none;">Antioxidants
+in Health and Disease</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(25).pdf" style="text-decoration:none;">The Mediterranean
+Way of Eating</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(26).pdf" style="text-decoration:none;">Antioxidants in Sport Nutrition</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(27).pdf" style="text-decoration:none;">Data Privacy for the
+Smart Grid</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(28).pdf" style="text-decoration:none;">Construction Supply Chain
+Economics</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(29).pdf" style="text-decoration:none;">Stress in Post-War Britain, 1945–85 </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(30).pdf" style="text-decoration:none;">Germany's Foreign Policy
+towards Poland and the Czech Republic</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/ty(31).pdf" style="text-decoration:none;">BioMEMS: Science
+and Engineering Perspectives</a></li> 
+    </ul>
+
+
+
+
+
+
+
 
