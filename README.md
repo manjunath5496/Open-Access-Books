@@ -1,3 +1,7 @@
+<img src="https://github.com/manjunath5496/List-of-effects/blob/main/1/1024px-CC-BY-NC-ND.svg.png" alt="Girl in a jacket" width="512" height="179">
+
+</br>
+
 <h2> Springer Open Access Books (<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution 4.0</a>) </h2>
 
 
