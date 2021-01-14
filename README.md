@@ -2952,10 +2952,216 @@ towards Poland and the Czech Republic</a></li>
 and Engineering Perspectives</a></li> 
     </ul>
 
+</br>
+
+<h2>MDPI Books (<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution 4.0</a>) </h2>
 
 
 
+<ul>
 
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(1).pdf" style="text-decoration:none;">Progress in Group
+Field Theory and Related Quantum Gravity Formalisms</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(2).pdf" style="text-decoration:none;">High Performance Propagation of Large
+Object Populations in Earth Orbits</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(3).pdf" style="text-decoration:none;">Taste, Nutrition
+and Health</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(4).pdf" style="text-decoration:none;">Microwave
+Applications in Chemical Engineering</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(5).pdf" style="text-decoration:none;">Remote Sensing and
+Geosciences for Archaeology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(6).pdf" style="text-decoration:none;">Speech perception in
+complex acoustic environments</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(7).pdf" style="text-decoration:none;">Enzymes and Their Biotechnological
+Application</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(8).pdf" style="text-decoration:none;"> Examining auditory
+selective attention: From dichotic towards realistic environments </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(9).pdf" style="text-decoration:none;">The Making of
+Modern Psychiatry</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(10).pdf" style="text-decoration:none;">Computer Science
+and Engineering Education for Precollegiate Students and Teachers</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(11).pdf" style="text-decoration:none;">Nanoscience and Nanotechnology,
+Proceedings of the INFN-LNF 2018 Conference</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(12).pdf" style="text-decoration:none;">Spectral Line Shapes in
+Plasmas</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(13).pdf" style="text-decoration:none;">Quantum Information and Foundations</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(14).pdf" style="text-decoration:none;">Biochar as Soil Amendment</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(15).pdf" style="text-decoration:none;">Effective two dimensional
+theories for multi-layered plates</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(16).pdf" style="text-decoration:none;">Collaborative Technologies and Data
+Science in Artificial Intelligence Applications</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(17).pdf" style="text-decoration:none;">Quantum Foundations: 90 Years of Uncertainty</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(18).pdf" style="text-decoration:none;">Observations and Theory of Short
+GRBs at the Dawn of the Gravitational Wave Era</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(19).pdf" style="text-decoration:none;">Transforming Encounters and Critical
+Reflection: African Thought, Critical Theory, and Liberation Theology in Dialogue</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(20).pdf" style="text-decoration:none;">Mathematical Economics</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(21).pdf" style="text-decoration:none;">Heterobimetallic [2.2] Paracyclophane
+Complexes and Their Application in Photoredox Catalysis</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(22).pdf" style="text-decoration:none;">Low Complexity Physical Layer
+Cooperation Concepts for Mobile Ad Hoc Networks</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(23).pdf" style="text-decoration:none;">A critical analysis of the Physical Education curriculum in the Czech Republic</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(24).pdf" style="text-decoration:none;">Providing orbit information with
+predetermined bounded accuracy</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(25).pdf" style="text-decoration:none;">Religious Conflict and Coexistence: 
+The Korean Context and Beyond</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(26).pdf" style="text-decoration:none;">Spectral Line Shapes in Astrophysics
+and Related Topics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(27).pdf" style="text-decoration:none;">New Trends in Statistical Physics of
+Complex Systems</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(28).pdf" style="text-decoration:none;">The F-Word: 
+Pound, Eliot, Lewis, and the Far Right</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(29).pdf" style="text-decoration:none;">Teachers' Beliefs and Strategies
+when Teaching Reading in Multilingual Settings</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(30).pdf" style="text-decoration:none;">Media and Communication
+in Europe</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(31).pdf" style="text-decoration:none;">A Functional, Comprehensive and Extensible Multi-Platform Querying and Transformation Approach</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(32).pdf" style="text-decoration:none;">Culture Management
+Strategy and Marketing Aspects</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(33).pdf" style="text-decoration:none;">The Complexity of Zadeh's
+Pivot Rule</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(34).pdf" style="text-decoration:none;">Cosmological
+Inflation, Dark Matter and Dark Energy</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(35).pdf" style="text-decoration:none;">The Multiverse</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(36).pdf" style="text-decoration:none;">Philosophical
+Issues in Sport Science</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(37).pdf" style="text-decoration:none;">Contemporary
+Natural Philosophy and Philosophies — Part 1</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(38).pdf" style="text-decoration:none;">Reading the Post-Apartheid City</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(39).pdf" style="text-decoration:none;">The Challenges of the Humanities,
+Past, Present, and Future: Vol. 1</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(40).pdf" style="text-decoration:none;">Dynamic iteration and
+model order reduction for magneto-quasistatic systems</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(41).pdf" style="text-decoration:none;">Reading Loss: Post-Apartheid Melancholia in Contemporary South African Novels</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(42).pdf" style="text-decoration:none;">Psychology in Edgar Allan Poe</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(43).pdf" style="text-decoration:none;">Fast Measurement of Individual
+Head-Related Transfer Functions</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(44).pdf" style="text-decoration:none;">Anthropometric Individualization
+of Head-Related Transfer Functions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(45).pdf" style="text-decoration:none;">Teaching Augustine</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(46).pdf" style="text-decoration:none;">Selected Papers from
+43rd International Conference of Theoretical Physics</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(47).pdf" style="text-decoration:none;">The Role and
+Meaning of Religion for Korean Society</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(48).pdf" style="text-decoration:none;">The Occurrence of Separate Opinions
+at the Federal Constitutional Court</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(49).pdf" style="text-decoration:none;">Smart Universities
+Education's Digital Future</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(50).pdf" style="text-decoration:none;">Open Access and
+the Library</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(51).pdf" style="text-decoration:none;">Existence and Spatial Decay of
+Periodic Navier-Stokes Flows in Exterior Domains</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(52).pdf" style="text-decoration:none;">Time-Periodic Solutions to the Equations
+of Magnetohydrodynamics with Background Magnetic Field</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(53).pdf" style="text-decoration:none;">Perspectives on
+Reincarnation: Hindu, Christian, and Scientific</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(54).pdf" style="text-decoration:none;">Optimal Domain and Integral
+Extension of Operators Acting in Fréchet Function Spaces </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(55).pdf" style="text-decoration:none;">Modeling of
+Moving Sound Sources Based on Array Measurements</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(56).pdf" style="text-decoration:none;">Investigation on the dissemination
+of unit watt in airborne sound and applications </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(57).pdf" style="text-decoration:none;">Advanced Approaches
+Applied to Materials Development and Design Predictions</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(58).pdf" style="text-decoration:none;">Advances in
+Mechanical Systems Dynamics</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(59).pdf" style="text-decoration:none;">Cosmic Plasmas
+and Electromagnetic Phenomena</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(60).pdf" style="text-decoration:none;">Entropy Based
+Fatigue, Fracture, Failure Prediction and Structural Health Monitoring </a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(61).pdf" style="text-decoration:none;"> Flow and
+Transport Properties of Unconventional Reservoirs</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(62).pdf" style="text-decoration:none;">Groundwater Quantity and
+Quality</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(63).pdf" style="text-decoration:none;">Groundwater Resources and SaltWater
+Intrusion in a Changing Environment</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(64).pdf" style="text-decoration:none;">Internal Combustion
+Engines Improving Performance, Fuel Economy and Emissions</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(65).pdf" style="text-decoration:none;">Morphology and
+Internal Mixing of Atmospheric Particles</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(66).pdf" style="text-decoration:none;">Multi-Agent
+Systems 2019</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(67).pdf" style="text-decoration:none;">Multi-Color Laser
+Emission for the Generation of Ultrashort Optical Pulse</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(68).pdf" style="text-decoration:none;">Optical Trapping
+and Manipulation: From Fundamentals to Applications</a></li> 
+ 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(69).pdf" style="text-decoration:none;">Quantum
+Transport in Mesoscopic Systems</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(70).pdf" style="text-decoration:none;">Special Functions:
+Fractional Calculus and the Pathway for Entropy</a></li> 
+  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(71).pdf" style="text-decoration:none;">SPIG2018</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(72).pdf" style="text-decoration:none;">Development of
+Unconventional Reservoirs</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(73).pdf" style="text-decoration:none;">Geothermal Energy: Delivering on
+the Global Potential</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(74).pdf" style="text-decoration:none;">High Voltage
+Engineering and Applications</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(75).pdf" style="text-decoration:none;">Membrane–
+Peptide Interactions: From Basics to Current Applications</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(76).pdf" style="text-decoration:none;">Multiscale Turbulent
+Transport</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-effects/blob/main/1/md(77).pdf" style="text-decoration:none;">Physiological
+and Molecular Characterization of Crop Resistance to Abiotic Stresses</a></li> 
+ 
+</ul>
 
 
 
