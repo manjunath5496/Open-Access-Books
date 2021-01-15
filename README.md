@@ -3167,5 +3167,48 @@ and Molecular Characterization of Crop Resistance to Abiotic Stresses</a></li>
  
 </ul>
 
+</br>
 
+<ul id="s-lg-link-list-36479631" class="s-lg-link-list s-lg-link-list-2">
+<li class="">
+<div id="s-lg-content-33696989" class=""><a href="http://www.doabooks.org/doab" target="_blank">Directory of Open Access Books (DOAB)</a>
+<div id="s-lg-link-desc-33696989" class="s-lg-link-desc">service of OAPEN Foundation based at the National Library in The Hague. Database contains more than 5,000 academic, peer-reviewed books from 163 publishers.</div>
+</div>
+</li>
+<li class="">
+<div id="s-lg-content-33698533" class=""><a href="http://www.bartleby.com/" target="_blank">Great Books Online</a>
+<div id="s-lg-link-desc-33698533" class="s-lg-link-desc">Internet publisher of literature, reference and verse providing students, researchers and the intellectually curious with unlimited access to books and information on the web, free of charge.</div>
+</div>
+</li>
+<li class="">
+<div id="s-lg-content-33696991" class=""><a href="http://www.hathitrust.org/" target="_blank">HathiTrust Digital Library</a>
+<div id="s-lg-link-desc-33696991" class="s-lg-link-desc">Partnership of academic and research institutions, offering a collection of millions of titles digitized from libraries around the world.</div>
+</div>
+</li>
+<li class="">
+<div id="s-lg-content-33697000" class=""><a href="http://www.nap.edu/books" target="_blank">National Academies Press Free eBooks</a>
+<div id="s-lg-link-desc-33697000" class="s-lg-link-desc">Created by the National Academy of Sciences to publish the reports of the National Academies of Sciences, Engineering and Medicine with more than 8,500 titles in PDF format.</div>
+</div>
+</li>
+<li class="">
+<div id="s-lg-content-33698303" class=""><a href="https://www.ncbi.nlm.nih.gov/books" target="_blank">NCBI Bookshelf</a>
+<div id="s-lg-link-desc-33698303" class="s-lg-link-desc">Provides free online access to books and documents in life science and healthcare.</div>
+</div>
+</li>
+<li class="">
+<div id="s-lg-content-33698513" class=""><a href="http://www.oapen.org/home" target="_blank">OAPEN Library</a>
+<div id="s-lg-link-desc-33698513" class="s-lg-link-desc">Open Access Publishing in European Networks (OAPEN) Library contains freely accessible academic books, mainly in the area of humanities and social sciences.</div>
+</div>
+</li>
+<li class="">
+<div id="s-lg-content-33698500" class=""><a href="http://www.openbookpublishers.com/" target="_blank">Open Book Publishers</a>
+<div id="s-lg-link-desc-33698500" class="s-lg-link-desc">Founded in 2008 by a small group of academics at the University of Cambridge, Open Book Publishers publishes monographs and textbooks in the Humanities and Social Sciences. All books are available to read for free online.</div>
+</div>
+</li>
+<li class="">
+<div id="s-lg-content-33696974" class=""><a href="http://www.gutenberg.org/wiki/Main_Page" target="_blank">Project Gutenberg</a>
+<div id="s-lg-link-desc-33696974" class="s-lg-link-desc">Offers over 53,000 free ebooks, most of which are primary source texts: choose among free epub books, free kindle books, download them or read them online.</div>
+</div>
+</li>
+</ul>
 
