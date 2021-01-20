@@ -1,4 +1,4 @@
-<img src="https://github.com/manjunath5496/List-of-effects/blob/main/1/1024px-CC-BY-NC-ND.svg.png" alt="Girl in a jacket" width="512" height="179">
+<img src="https://github.com/manjunath5496/List-of-effects/blob/main/1/1024px-CC-BY-NC-ND.svg.png" alt="Girl in a jacket" width="256" height="89">
 
 </br>
 
